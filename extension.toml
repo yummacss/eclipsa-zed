@@ -1,6 +1,6 @@
 id = "eclipsa"
 name = "Eclipsa"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["rrenildopereiraa"]
 description = "A variant of the Ariake Dark theme."
