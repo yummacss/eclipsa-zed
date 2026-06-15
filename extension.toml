@@ -1,0 +1,7 @@
+id = "eclipsa"
+name = "Eclipsa"
+version = "0.0.1"
+schema_version = 1
+authors = ["rrenildopereiraa"]
+description = "A variant of the Ariake Dark theme."
+repository = "https://github.com/your-name/my-zed-extension"
