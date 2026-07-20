@@ -1,4 +1,4 @@
-# [Eclipsa]()
+# Eclipsa theme for Zed
 
 A variant of the Ariake Dark theme.
 
