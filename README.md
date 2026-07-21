@@ -1,13 +1,11 @@
-# [Eclipsa]()
+# Eclipsa for Zed
 
-A variant of the Ariake Dark theme.
+A dark theme for Zed, based on Ariake Dark.
 
 ## Preview
-
-Here's a quick look at the Eclisa theme in Zed.
 
 ![Demo screenshot](demo.png)
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [MIT License](LICENSE).
