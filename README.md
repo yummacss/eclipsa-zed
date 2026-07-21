@@ -6,6 +6,7 @@ A dark theme for Zed, based on Ariake Dark.
 
 ![Demo screenshot](demo.png)
 
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
