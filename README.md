@@ -1,6 +1,6 @@
 # Eclipsa for Zed
 
-A dark theme for Zed, based on Ariake Dark.
+A dark theme based on Yumma CSS color scheme and Ariake.
 
 ## Preview
 
